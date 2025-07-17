@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="habibaamramr71@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/habiba-amr-490b78304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-profile-pink
-" /></a>
+  <a href="https://www.linkedin.com/in/habiba-amr-490b78304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
+" alt="Linkedin" >/a>
   <a href="https://github.com/Habibaamr258/hH.git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
